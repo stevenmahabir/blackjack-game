@@ -2,6 +2,10 @@
 
 A console-based Blackjack (21) game implementation in Java, supporting multiple players with betting mechanics and standard casino rules.
 
+This project is a fully functional text-based Blackjack card game developed in Java as part of my enterprise Java course at Sheridan College. The game simulates a casino blackjack table where 1-7 players can compete against a dealer, managing their bankrolls through multiple rounds of play.
+
+The implementation follows object-oriented programming principles with a clear class hierarchy, separating concerns between game logic, player management, card handling, and user interaction. Players can place bets, make strategic hit/stand decisions, and track their winnings across multiple rounds until they choose to leave or run out of money. The game enforces standard casino rules, including automatic dealer play, proper blackjack payouts (3:2), and ace value calculation from 11 - 1 to prevent unnecessary busts. However, what this program does not offer is the ability to split cards or place side bets.
+
 ![Game Setup](SetupGame(Game1).png)
 
 ## Features
